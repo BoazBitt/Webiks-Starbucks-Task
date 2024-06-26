@@ -111,12 +111,7 @@ The client-side code includes tests to ensure the proper functionality of the co
    yarn test
    ```
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Contact
 
 Your Name - [Linkedin](https://www.linkedin.com/in/boaz-bitton/)
 
-Project Link: [Repo](https://github.com/BoazBitt/Webiks-Starbucks-Task)
