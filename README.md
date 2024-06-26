@@ -119,4 +119,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [Linkedin](https://www.linkedin.com/in/boaz-bitton/)
 
-Project Link: [Repo](https://github.com/BoazBitt/Webiks-Starbucks-Task)
