@@ -1,12 +1,12 @@
 import axios from "axios";
-const PATH_SERVER = `http://localhost:3000`;
+
+const PATH_SERVER = import.meta.env.VITE_PATH_SERVER;
 export const isInCountry = async (
   latitude: number,
   longitude: number,
   countryCode: string
 ): Promise<{ isInside: boolean }> => {
   try {
-    console.log("here", latitude, longitude, countryCode);
     const { data } = await axios.post(`${PATH_SERVER}/check-location`, {
       latitude,
       longitude,
